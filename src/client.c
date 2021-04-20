@@ -1,5 +1,5 @@
 /*
- ** HASAN HÜSEYİN PAY 3.12.2017
+ ** MAZLUM ERYILMAZ 3.12.2017
  */
 
 #include <stdio.h>
